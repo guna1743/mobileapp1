@@ -11,7 +11,7 @@
 	}
 	
 	.navleft{
-		margin-left: 220px;
+		margin-left: 340px;
 	}
 	.about
 	{   
@@ -173,6 +173,7 @@
 	top: 0px;
 	width: 100%;
 	background: linear-gradient(180deg, #DCE9E9 11.21%, rgba(220, 233, 233, 0.15) 42.17%), url(images/product.png);
+	
 	}
 	.five{
 		
@@ -327,3 +328,7 @@
 		border-radius: 0px;
 		background:#D6F4FB;
 	}  
+	input{
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
